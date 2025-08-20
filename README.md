@@ -8,6 +8,14 @@ A curious, deep diver CS student from India.
 
 ---
 
+## 🎮 Nostalgia: Play Snake game
+
+👉 [Click here to play Snake 🐍](https://kritiarora2003.github.io/snake-game/)
+
+![Snake](https://img.shields.io/badge/Play-Snake-green?style=for-the-badge&logo=github)
+
+---
+
 ## 🛠️ Languages & Tools  
 
 <p align="left">
