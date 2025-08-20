@@ -1,6 +1,6 @@
 # Hi, I'm Kriti Arora 👋
 
-## A curious, deep diver CS student from India. Let's connect!
+A curious, deep diver CS student from India. 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-arora--kriti-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/arora-kriti/)  
 [![GitHub](https://img.shields.io/badge/GitHub-kritiarora2003-black?logo=github&style=flat)](https://github.com/kritiarora2003)  
