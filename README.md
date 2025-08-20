@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Kriti Arora 👋
 
-<!--
-**kritiarora2003/kritiarora2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Tech CSE @ IIT Bhilai** | 💻 Backend Developer Intern @ GoQuant | 🔒 Cryptography & 🔗 Network Science Enthusiast  
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-arora--kriti-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/arora-kriti/)  
+[![GitHub](https://img.shields.io/badge/GitHub-kritiarora2003-black?logo=github&style=flat)](https://github.com/kritiarora2003)  
+[![Email](https://img.shields.io/badge/Email-kritiarora002%40gmail.com-red?logo=gmail&style=flat)](mailto:kritiarora002@gmail.com)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Languages & Tools  
+
+<p align="left">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=cpp,python,c,js,php,html,css" alt="Languages" /><br/>
+  <!-- Frameworks & Tech -->
+  <img src="https://skillicons.dev/icons?i=react,pytorch,tensorflow,docker,verilog" alt="Frameworks & Tools" /><br/>
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,linux,latex,vscode,figma" alt="Other Tools" />
+</p>
+
