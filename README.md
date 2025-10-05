@@ -25,3 +25,9 @@ A curious, deep diver CS student from India.
   <img src="https://skillicons.dev/icons?i=git,linux,latex,vscode,figma" alt="Other Tools" />
 </p>
 
+## 📈 Competitive Programming Profiles
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Findingdreamo-orange?logo=leetcode&style=flat)](https://leetcode.com/u/findingdreamo/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Findingdreamo-blue?logo=codeforces&style=flat)](https://codeforces.com/profile/Findingdreamo)
+[![CodeChef](https://img.shields.io/badge/CodeChef-Findingdreamo-orange?logo=codechef&style=flat)](https://www.codechef.com/users/findingdreamo)
+
